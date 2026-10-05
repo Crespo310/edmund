@@ -1,22 +1,34 @@
-# Finora — Professional Finance Landing Page
+# NexaFlow — Professional Landing Page
 
-A polished responsive landing page inspired by the supplied reference design, built with pure HTML, CSS and JavaScript.
+A polished responsive landing page created for the AppRo8 Task 1: Landing Page Development assignment.
 
-## Includes
-- Dark navy + lime professional visual system
-- Hero section with phone/dashboard visual
-- Rating and customer avatars
-- Services feature strip
-- About section with mission/vision
-- Business statistics
-- 3 service cards
-- 3-step approach
-- Contact CTA and footer
-- Mobile hamburger menu
-- Smooth scrolling and responsive breakpoints
+## Included requirements
 
-## Run in VS Code
-Open `index.html` with Live Server.
+- Header with logo and navigation
+- Hero section with headline, supporting copy and CTA
+- Three service/feature cards
+- Three testimonials
+- Footer with contact and social links
+- Fully responsive mobile, tablet and desktop layouts
+- Mobile hamburger navigation
+- Smooth scrolling
+- Scroll reveal animations
+- Active navigation state while scrolling
+- Semantic HTML and accessible navigation controls
+- README documentation
+
+## Technologies
+
+HTML5 · CSS3 · Vanilla JavaScript
+
+## Run locally
+
+Open `index.html` directly in a browser, or use VS Code Live Server.
 
 ## Deployment
-Push the folder to GitHub and enable GitHub Pages, or deploy it to Netlify/Vercel.
+
+The project is ready for GitHub Pages, Netlify, or Vercel.
+
+## Author
+
+Edmund Nana Sarpong
